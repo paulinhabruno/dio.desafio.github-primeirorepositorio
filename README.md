@@ -1,5 +1,5 @@
 # Repositório de Desafio de Projeto Git/GitHub
-Repositório criado para 
+Repositório criado para o desafio de projeto.
 
 Projeto desafio de código sobre Git/Github
 
